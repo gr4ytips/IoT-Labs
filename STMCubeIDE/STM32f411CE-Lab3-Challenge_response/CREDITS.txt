@@ -1,0 +1,13 @@
+STM32f411CE-Lab3-Challenge_response
+
+Initial Author:
+gr4ytips
+
+AI Code Refinement + Documentation:
+ChatGPT (OpenAI)
+
+License:
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+
+Purpose:
+Educational and research use only — no warranty, no liability for misuse.
