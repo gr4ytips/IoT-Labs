@@ -1,4 +1,3 @@
-
 # STM32 Embedded Projects & Articles Collection
 
 This repository hosts both technical articles and hands-on STM32 projects targeting the STM32F411 Black Pill board.
@@ -35,6 +34,12 @@ This repository hosts multiple hands-on STM32 projects targeting the STM32F411 B
 - OpenOCD + GDB debugging workflows
 - Educational write-ups and guides
 - Licenses, disclaimers, and credits
+
+---
+
+## 💡 Lab Inspirations and Original Work
+
+These labs were independently developed for educational and research purposes. While they draw on widely accepted techniques in IoT security testing and embedded systems exploration, all binaries, firmware, and documentation were created originally for the STM32F411 Black Pill platform.
 
 ---
 
